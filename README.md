@@ -1,4 +1,4 @@
-# TeleBox
+# TeleBot
 
 Based on [https://github.com/natanimn/Telebof](https://github.com/natanimn/Telebof)  
 
